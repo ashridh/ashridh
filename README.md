@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Head over to [ayush-1506.github.io](https://ayush-1506.github.io) to know more. [WIP]
+Head over to [ayush-1506.github.io](https://ayush-1506.github.io) to know more.
 I usually go by the usernames `ayushridhar` and `ayush-1506` on the internet.
 
 To get in touch, please drop me an email at `[first_name].[last_name]1506@gmail.com`.
